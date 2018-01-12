@@ -1,0 +1,32 @@
+*{
+    border: solid 1px red;
+}
+div {
+    background-color: purple;
+    margin-top: 35px; 
+}
+h1{
+    color: blue;
+    font-size: 60px;
+    font-style: 100px;
+    height: 900px;
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+p{
+    background-color: greenyellow;
+}
+.red {
+    color: red;
+}
+li {
+    display: inline-block;
+    margin: 0px 0px 0px 40px;
+}
+p{
+    padding: 10px 20px 10px 20px;
+    display: inline;
+    vertical-align: top;
+    margin-top: 0px;
+}
